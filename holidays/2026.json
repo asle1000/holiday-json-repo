@@ -3,15 +3,21 @@
     "month": "01",
     "days": [
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "1월1일",
+        "isHoliday": "Y",
+        "locdate": 20260101,
         "type": "REST_HOLIDAYS"
       },
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "소한",
+        "isHoliday": "N",
+        "locdate": 20260105,
+        "type": "DIVISIONS_24"
+      },
+      {
+        "dateName": "대한",
+        "isHoliday": "N",
+        "locdate": 20260120,
         "type": "DIVISIONS_24"
       }
     ]
@@ -20,21 +26,39 @@
     "month": "02",
     "days": [
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "설날",
+        "isHoliday": "Y",
+        "locdate": 20260216,
         "type": "REST_HOLIDAYS"
       },
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "설날",
+        "isHoliday": "Y",
+        "locdate": 20260217,
+        "type": "REST_HOLIDAYS"
+      },
+      {
+        "dateName": "설날",
+        "isHoliday": "Y",
+        "locdate": 20260218,
+        "type": "REST_HOLIDAYS"
+      },
+      {
+        "dateName": "2·28 민주운동 기념일",
+        "isHoliday": "N",
+        "locdate": 20260228,
         "type": "ANNIVERSARIES"
       },
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "입춘",
+        "isHoliday": "N",
+        "locdate": 20260204,
+        "type": "DIVISIONS_24"
+      },
+      {
+        "dateName": "우수",
+        "isHoliday": "N",
+        "locdate": 20260219,
         "type": "DIVISIONS_24"
       }
     ]
@@ -43,27 +67,69 @@
     "month": "03",
     "days": [
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "삼일절",
+        "isHoliday": "Y",
+        "locdate": 20260301,
         "type": "REST_HOLIDAYS"
       },
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "대체공휴일(삼일절)",
+        "isHoliday": "Y",
+        "locdate": 20260302,
+        "type": "REST_HOLIDAYS"
+      },
+      {
+        "dateName": "납세자의 날",
+        "isHoliday": "N",
+        "locdate": 20260303,
         "type": "ANNIVERSARIES"
       },
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "3·8민주의거 기념일",
+        "isHoliday": "N",
+        "locdate": 20260308,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "3·15 의거 기념일",
+        "isHoliday": "N",
+        "locdate": 20260315,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "상공의 날",
+        "isHoliday": "N",
+        "locdate": 20260318,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "의용소방대의 날",
+        "isHoliday": "N",
+        "locdate": 20260319,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "서해수호의 날",
+        "isHoliday": "N",
+        "locdate": 20260327,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "경칩",
+        "isHoliday": "N",
+        "locdate": 20260305,
         "type": "DIVISIONS_24"
       },
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "춘분",
+        "isHoliday": "N",
+        "locdate": 20260320,
+        "type": "DIVISIONS_24"
+      },
+      {
+        "dateName": "정월대보름",
+        "isHoliday": "N",
+        "locdate": 20260303,
         "type": "SUNDRY_DAYS"
       }
     ]
@@ -72,21 +138,99 @@
     "month": "04",
     "days": [
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "4·3희생자 추념일",
+        "isHoliday": "N",
+        "locdate": 20260403,
         "type": "ANNIVERSARIES"
       },
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "예비군의 날",
+        "isHoliday": "N",
+        "locdate": 20260403,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "식목일",
+        "isHoliday": "N",
+        "locdate": 20260405,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "보건의 날",
+        "isHoliday": "N",
+        "locdate": 20260407,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "대한민국임시정부 수립기념일",
+        "isHoliday": "N",
+        "locdate": 20260411,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "도시농업의 날",
+        "isHoliday": "N",
+        "locdate": 20260411,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "4·19혁명 기념일",
+        "isHoliday": "N",
+        "locdate": 20260419,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "장애인의 날",
+        "isHoliday": "N",
+        "locdate": 20260420,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "과학의 날",
+        "isHoliday": "N",
+        "locdate": 20260421,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "정보통신의 날",
+        "isHoliday": "N",
+        "locdate": 20260422,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "순직의무군경의 날",
+        "isHoliday": "N",
+        "locdate": 20260424,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "법의 날",
+        "isHoliday": "N",
+        "locdate": 20260425,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "충무공 이순신 탄신일",
+        "isHoliday": "N",
+        "locdate": 20260428,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "청명",
+        "isHoliday": "N",
+        "locdate": 20260405,
         "type": "DIVISIONS_24"
       },
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "곡우",
+        "isHoliday": "N",
+        "locdate": 20260420,
+        "type": "DIVISIONS_24"
+      },
+      {
+        "dateName": "한식",
+        "isHoliday": "N",
+        "locdate": 20260406,
         "type": "SUNDRY_DAYS"
       }
     ]
@@ -95,21 +239,123 @@
     "month": "05",
     "days": [
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "어린이날",
+        "isHoliday": "Y",
+        "locdate": 20260505,
         "type": "REST_HOLIDAYS"
       },
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "부처님오신날",
+        "isHoliday": "Y",
+        "locdate": 20260524,
+        "type": "REST_HOLIDAYS"
+      },
+      {
+        "dateName": "대체공휴일(부처님오신날)",
+        "isHoliday": "Y",
+        "locdate": 20260525,
+        "type": "REST_HOLIDAYS"
+      },
+      {
+        "dateName": "근로자의 날",
+        "isHoliday": "N",
+        "locdate": 20260501,
         "type": "ANNIVERSARIES"
       },
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "어린이 날",
+        "isHoliday": "N",
+        "locdate": 20260505,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "어버이 날",
+        "isHoliday": "N",
+        "locdate": 20260508,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "유권자의 날",
+        "isHoliday": "N",
+        "locdate": 20260510,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "동학농민혁명 기념일",
+        "isHoliday": "N",
+        "locdate": 20260511,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "입양의 날",
+        "isHoliday": "N",
+        "locdate": 20260511,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "식품안전의 날",
+        "isHoliday": "N",
+        "locdate": 20260514,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "스승의 날",
+        "isHoliday": "N",
+        "locdate": 20260515,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "5·18민주화운동 기념일",
+        "isHoliday": "N",
+        "locdate": 20260518,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "성년의 날",
+        "isHoliday": "N",
+        "locdate": 20260518,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "발명의 날",
+        "isHoliday": "N",
+        "locdate": 20260519,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "세계인의 날",
+        "isHoliday": "N",
+        "locdate": 20260520,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "부부의 날",
+        "isHoliday": "N",
+        "locdate": 20260521,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "해외 파병용사의 날",
+        "isHoliday": "N",
+        "locdate": 20260529,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "바다의 날",
+        "isHoliday": "N",
+        "locdate": 20260531,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "입하",
+        "isHoliday": "N",
+        "locdate": 20260505,
+        "type": "DIVISIONS_24"
+      },
+      {
+        "dateName": "소만",
+        "isHoliday": "N",
+        "locdate": 20260521,
         "type": "DIVISIONS_24"
       }
     ]
@@ -118,27 +364,93 @@
     "month": "06",
     "days": [
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "전국동시지방선거",
+        "isHoliday": "Y",
+        "locdate": 20260603,
         "type": "REST_HOLIDAYS"
       },
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "현충일",
+        "isHoliday": "Y",
+        "locdate": 20260606,
+        "type": "REST_HOLIDAYS"
+      },
+      {
+        "dateName": "의병의 날",
+        "isHoliday": "N",
+        "locdate": 20260601,
         "type": "ANNIVERSARIES"
       },
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "환경의 날",
+        "isHoliday": "N",
+        "locdate": 20260605,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "현충일",
+        "isHoliday": "N",
+        "locdate": 20260606,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "구강보건의 날",
+        "isHoliday": "N",
+        "locdate": 20260609,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "6·10민주항쟁 기념일",
+        "isHoliday": "N",
+        "locdate": 20260610,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "6·10만세운동 기념일",
+        "isHoliday": "N",
+        "locdate": 20260610,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "전자정부의 날",
+        "isHoliday": "N",
+        "locdate": 20260624,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "6·25전쟁일",
+        "isHoliday": "N",
+        "locdate": 20260625,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "마약퇴치의 날",
+        "isHoliday": "N",
+        "locdate": 20260626,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "철도의 날",
+        "isHoliday": "N",
+        "locdate": 20260628,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "망종",
+        "isHoliday": "N",
+        "locdate": 20260606,
         "type": "DIVISIONS_24"
       },
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "하지",
+        "isHoliday": "N",
+        "locdate": 20260621,
+        "type": "DIVISIONS_24"
+      },
+      {
+        "dateName": "단오",
+        "isHoliday": "N",
+        "locdate": 20260619,
         "type": "SUNDRY_DAYS"
       }
     ]
@@ -147,21 +459,51 @@
     "month": "07",
     "days": [
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "정보보호의 날",
+        "isHoliday": "N",
+        "locdate": 20260708,
         "type": "ANNIVERSARIES"
       },
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "인구의 날",
+        "isHoliday": "N",
+        "locdate": 20260711,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "북한이탈주민의 날",
+        "isHoliday": "N",
+        "locdate": 20260714,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "유엔군 참전의 날",
+        "isHoliday": "N",
+        "locdate": 20260727,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "소서",
+        "isHoliday": "N",
+        "locdate": 20260707,
         "type": "DIVISIONS_24"
       },
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "대서",
+        "isHoliday": "N",
+        "locdate": 20260723,
+        "type": "DIVISIONS_24"
+      },
+      {
+        "dateName": "초복",
+        "isHoliday": "N",
+        "locdate": 20260715,
+        "type": "SUNDRY_DAYS"
+      },
+      {
+        "dateName": "중복",
+        "isHoliday": "N",
+        "locdate": 20260725,
         "type": "SUNDRY_DAYS"
       }
     ]
@@ -170,27 +512,45 @@
     "month": "08",
     "days": [
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "광복절",
+        "isHoliday": "Y",
+        "locdate": 20260815,
         "type": "REST_HOLIDAYS"
       },
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "대체공휴일(광복절)",
+        "isHoliday": "Y",
+        "locdate": 20260817,
+        "type": "REST_HOLIDAYS"
+      },
+      {
+        "dateName": "섬의 날",
+        "isHoliday": "N",
+        "locdate": 20260808,
         "type": "ANNIVERSARIES"
       },
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "입추",
+        "isHoliday": "N",
+        "locdate": 20260807,
         "type": "DIVISIONS_24"
       },
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "처서",
+        "isHoliday": "N",
+        "locdate": 20260823,
+        "type": "DIVISIONS_24"
+      },
+      {
+        "dateName": "말복",
+        "isHoliday": "N",
+        "locdate": 20260814,
+        "type": "SUNDRY_DAYS"
+      },
+      {
+        "dateName": "칠석",
+        "isHoliday": "N",
+        "locdate": 20260819,
         "type": "SUNDRY_DAYS"
       }
     ]
@@ -199,21 +559,75 @@
     "month": "09",
     "days": [
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "추석",
+        "isHoliday": "Y",
+        "locdate": 20260924,
         "type": "REST_HOLIDAYS"
       },
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "추석",
+        "isHoliday": "Y",
+        "locdate": 20260925,
+        "type": "REST_HOLIDAYS"
+      },
+      {
+        "dateName": "추석",
+        "isHoliday": "Y",
+        "locdate": 20260926,
+        "type": "REST_HOLIDAYS"
+      },
+      {
+        "dateName": "푸른 하늘의 날",
+        "isHoliday": "N",
+        "locdate": 20260907,
         "type": "ANNIVERSARIES"
       },
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "사회복지의 날",
+        "isHoliday": "N",
+        "locdate": 20260907,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "곤충의 날",
+        "isHoliday": "N",
+        "locdate": 20260907,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "해양경찰의 날",
+        "isHoliday": "N",
+        "locdate": 20260910,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "청년의 날",
+        "isHoliday": "N",
+        "locdate": 20260919,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "조달의 날",
+        "isHoliday": "N",
+        "locdate": 20260930,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "개인정보 보호의 날",
+        "isHoliday": "N",
+        "locdate": 20260930,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "백로",
+        "isHoliday": "N",
+        "locdate": 20260907,
+        "type": "DIVISIONS_24"
+      },
+      {
+        "dateName": "추분",
+        "isHoliday": "N",
+        "locdate": 20260923,
         "type": "DIVISIONS_24"
       }
     ]
@@ -222,21 +636,117 @@
     "month": "10",
     "days": [
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "개천절",
+        "isHoliday": "Y",
+        "locdate": 20261003,
         "type": "REST_HOLIDAYS"
       },
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "대체공휴일(개천절)",
+        "isHoliday": "Y",
+        "locdate": 20261005,
+        "type": "REST_HOLIDAYS"
+      },
+      {
+        "dateName": "한글날",
+        "isHoliday": "Y",
+        "locdate": 20261009,
+        "type": "REST_HOLIDAYS"
+      },
+      {
+        "dateName": "국군의 날",
+        "isHoliday": "N",
+        "locdate": 20261001,
         "type": "ANNIVERSARIES"
       },
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "노인의 날",
+        "isHoliday": "N",
+        "locdate": 20261002,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "세계 한인의 날",
+        "isHoliday": "N",
+        "locdate": 20261005,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "재향군인의 날",
+        "isHoliday": "N",
+        "locdate": 20261008,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "임산부의 날",
+        "isHoliday": "N",
+        "locdate": 20261010,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "정신건강의 날",
+        "isHoliday": "N",
+        "locdate": 20261010,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "스포츠의 날",
+        "isHoliday": "N",
+        "locdate": 20261015,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "부마민주항쟁 기념일",
+        "isHoliday": "N",
+        "locdate": 20261016,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "문화의 날",
+        "isHoliday": "N",
+        "locdate": 20261017,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "경찰의 날",
+        "isHoliday": "N",
+        "locdate": 20261021,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "국제연합일",
+        "isHoliday": "N",
+        "locdate": 20261024,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "금융의 날",
+        "isHoliday": "N",
+        "locdate": 20261027,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "교정의 날",
+        "isHoliday": "N",
+        "locdate": 20261028,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "지방자치 및 균형발전의 날",
+        "isHoliday": "N",
+        "locdate": 20261029,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "한로",
+        "isHoliday": "N",
+        "locdate": 20261008,
+        "type": "DIVISIONS_24"
+      },
+      {
+        "dateName": "상강",
+        "isHoliday": "N",
+        "locdate": 20261023,
         "type": "DIVISIONS_24"
       }
     ]
@@ -245,15 +755,57 @@
     "month": "11",
     "days": [
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "학생독립운동 기념일",
+        "isHoliday": "N",
+        "locdate": 20261103,
         "type": "ANNIVERSARIES"
       },
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "소방의 날",
+        "isHoliday": "N",
+        "locdate": 20261109,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "농업인의 날",
+        "isHoliday": "N",
+        "locdate": 20261111,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "유엔참전용사 국제추모의 날",
+        "isHoliday": "N",
+        "locdate": 20261111,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "순국선열의 날",
+        "isHoliday": "N",
+        "locdate": 20261117,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "아동학대 예방의 날",
+        "isHoliday": "N",
+        "locdate": 20261119,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "김치의 날",
+        "isHoliday": "N",
+        "locdate": 20261122,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "입동",
+        "isHoliday": "N",
+        "locdate": 20261107,
+        "type": "DIVISIONS_24"
+      },
+      {
+        "dateName": "소설",
+        "isHoliday": "N",
+        "locdate": 20261122,
         "type": "DIVISIONS_24"
       }
     ]
@@ -262,21 +814,45 @@
     "month": "12",
     "days": [
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "기독탄신일",
+        "isHoliday": "Y",
+        "locdate": 20261225,
         "type": "REST_HOLIDAYS"
       },
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "소비자의 날",
+        "isHoliday": "N",
+        "locdate": 20261203,
         "type": "ANNIVERSARIES"
       },
       {
-        "dateName": null,
-        "isHoliday": null,
-        "locdate": null,
+        "dateName": "무역의 날",
+        "isHoliday": "N",
+        "locdate": 20261205,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "자원봉사자의 날",
+        "isHoliday": "N",
+        "locdate": 20261205,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "원자력 안전 및 진흥의 날",
+        "isHoliday": "N",
+        "locdate": 20261227,
+        "type": "ANNIVERSARIES"
+      },
+      {
+        "dateName": "대설",
+        "isHoliday": "N",
+        "locdate": 20261207,
+        "type": "DIVISIONS_24"
+      },
+      {
+        "dateName": "동지",
+        "isHoliday": "N",
+        "locdate": 20261222,
         "type": "DIVISIONS_24"
       }
     ]
